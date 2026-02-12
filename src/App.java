@@ -2,7 +2,7 @@
 
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         
         Mascota mascota = new Mascota("firulais", 3, "perro");
 
